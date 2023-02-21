@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KonradBauer
 - 👀 I’m interested in music and programming.
-- 🌱 I’m currently learning React :)
+- 🌱 I’m currently looking for job opportunities
 - 📫 How to reach me - konradbauer94@gmail.com
 
 Skills:
