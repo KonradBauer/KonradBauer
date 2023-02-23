@@ -25,6 +25,7 @@ Skills:
 <li>Promises, Async/Await</li>
 <li>GitHub Pull Requests & Review</li>
 <li>Trello</li>
+<li>Figma</li>
 <li>Scrum</li>
 <li>NPM</li>
 <li>Git</li>
