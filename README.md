@@ -35,3 +35,29 @@ Let's connect on social media:
 ![JavaScript: ES6+](https://img.shields.io/badge/JavaScript:%20ES6%2B-%23222222.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Promises, Async/Await](https://img.shields.io/badge/Promises%2C%20Async%2FAwait-%23222222.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![GitHub Pull Requests & Review](https://img.shields.io/badge/Promises%2C%20Async%2FAwait-%23222222.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+###
+
+<div style="background-color:#222222; padding: 20px;">
+    <h2 style="color:#FFFFFF;">Next to Learn:</h2>
+    <ul>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        </li>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-React%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Query">
+        </li>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+        </li>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+        </li>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=17202C" alt="Cypress">
+        </li>
+        <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-Unit%20testing-%23E5E5E5?style=for-the-badge&logo=jest&logoColor=C21325" alt="Unit testing">
+        </li>
+    </ul>
+</div>
