@@ -51,7 +51,7 @@ Let's connect on social media:
     <ul>
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        </li>
+        </li> <==== In progress..
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/-React%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Query">
         </li>
