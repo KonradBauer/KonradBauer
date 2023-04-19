@@ -53,7 +53,7 @@ Let's connect on social media:
             <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <==== In progress..
         </li> 
         <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-React%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Query"> <==== In progress..
+            <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Query"> <==== In progress..
         </li>
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/-React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
