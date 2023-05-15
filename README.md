@@ -19,7 +19,7 @@ Let's connect on social media:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonradBauer&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
-# Skills
+# Skills 🛠️
 
 [![Teamwork](https://img.shields.io/badge/-Teamwork-764ABC?style=for-the-badge&logo=slack&logoColor=white)](#) 
 [![Semantic & Accessible HTML](https://img.shields.io/badge/-Semantic%20%26%20Accessible%20HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -47,7 +47,7 @@ Let's connect on social media:
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
 <div style="background-color:#222222; padding: 20px;">
-    <h2 style="color:#FFFFFF;">I am currently learning:</h2>
+    <h2 style="color:#FFFFFF;">👨‍🎓 I am currently learning :</h2> 
 
 <ul>
  <li style="list-style:none;">
