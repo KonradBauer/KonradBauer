@@ -46,6 +46,15 @@ Let's connect on social media:
 [![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
 
+<div style="background-color:#222222; padding: 20px;">
+    <h2 style="color:#FFFFFF;">I am currently learning:</h2>
+
+<ul>
+ <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        </li> 
+</ul>
+
 
 ###
 
@@ -53,10 +62,7 @@ Let's connect on social media:
     <h2 style="color:#FFFFFF;">Next to Learn:</h2>
     <ul>
         <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <==== In progress..
-        </li> 
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Query"> <==== In progress..
+            <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Query">
         </li>
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/-React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
