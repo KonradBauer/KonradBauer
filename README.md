@@ -12,7 +12,6 @@ Visit my personal website: [konradbauer.github.io/personal-homepage/](https://ko
 Let's connect on social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-bauer/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23222222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KonradBauer)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/KonradBauer/count.svg)
