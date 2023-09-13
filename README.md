@@ -16,8 +16,6 @@ Let's connect on social media:
 
 ![Visitor Count](https://profile-counter.glitch.me/KonradBauer/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonradBauer&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
-
 # Skills 🛠️
 
 [![Teamwork](https://img.shields.io/badge/-Teamwork-764ABC?style=for-the-badge&logo=slack&logoColor=white)](#) 
