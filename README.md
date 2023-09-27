@@ -47,7 +47,7 @@ Let's connect on social media:
     <h2 style="color:#FFFFFF;">👨‍🎓 I am currently learning :</h2> 
 
 <ul>
- <li style="list-style:none;">
+ <li style="list-style-type:none;">
             <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         </li> 
 </ul>
@@ -57,21 +57,15 @@ Let's connect on social media:
 
 <div style="background-color:#222222; padding: 20px;">
     <h2 style="color:#FFFFFF;">Next to Learn:</h2>
-    <ul>
+    <ul style={{ listStyleType: "none" }}>
         <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanStack Query">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
         </li>
         <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+           <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanstackQuery">
         </li>
         <li style="list-style:none;">
             <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        </li>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=17202C" alt="Cypress">
-        </li>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-Unit%20testing-%23E5E5E5?style=for-the-badge&logo=jest&logoColor=C21325" alt="Unit testing">
         </li>
     </ul>
 </div>
