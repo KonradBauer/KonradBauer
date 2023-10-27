@@ -50,6 +50,12 @@ Let's connect on social media:
  <li style="list-style-type:none;">
             <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
         </li> 
+    <li style="list-style:none;">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+        </li>
+        <li style="list-style:none;">
+           <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanstackQuery">
+        </li>
 </ul>
 
 
@@ -58,14 +64,10 @@ Let's connect on social media:
 <div style="background-color:#222222; padding: 20px;">
     <h2 style="color:#FFFFFF;">Next to Learn:</h2>
     <ul style={{ listStyleType: "none" }}>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-        </li>
-        <li style="list-style:none;">
-           <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanstackQuery">
-        </li>
-        <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-        </li>
-    </ul>
+     <ul>
+    <li style="list-style:none;">
+        <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    </li>
+</ul>
+
 </div>
