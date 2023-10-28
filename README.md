@@ -42,7 +42,8 @@ Let's connect on social media:
 [![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
-
+[![Git](https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+          
 <div style="background-color:#222222; padding: 20px;">
     <h2 style="color:#FFFFFF;">👨‍🎓 I am currently learning :</h2> 
 
@@ -53,9 +54,7 @@ Let's connect on social media:
     <li style="list-style:none;">
             <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
         </li>
-        <li style="list-style:none;">
-           <img src="https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" alt="TanstackQuery">
-        </li>
+        
 </ul>
 
 
