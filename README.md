@@ -13,9 +13,6 @@ Let's connect on social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-bauer/)
 
-
-![Visitor Count](https://profile-counter.glitch.me/KonradBauer/count.svg)
-
 # Skills 🛠️
 
 [![Teamwork](https://img.shields.io/badge/-Teamwork-764ABC?style=for-the-badge&logo=slack&logoColor=white)](#) 
@@ -70,3 +67,7 @@ Let's connect on social media:
 </ul>
 
 </div>
+
+### Visitors
+
+![Visitor Count](https://profile-counter.glitch.me/KonradBauer/count.svg)
