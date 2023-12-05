@@ -68,6 +68,3 @@ Let's connect on social media:
 
 </div>
 
-### Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/KonradBauer/count.svg)
