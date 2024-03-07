@@ -7,7 +7,6 @@ You can reach me at:
 - 📧 konradbauer94@gmail.com
 - 📞 +48 781 573 274
 
-Visit my personal website: [konradbauer.github.io/personal-homepage/](https://konradbauer.github.io/personal-homepage/)
 
 Let's connect on social media:
 
