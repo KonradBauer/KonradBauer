@@ -7,7 +7,6 @@ You can reach me at:
 - 📧 konradbauer94@gmail.com
 - 📞 +48 781 573 274
 
-
 Let's connect on social media:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23222222.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-bauer/)
@@ -38,20 +37,11 @@ Let's connect on social media:
 [![NPM](https://img.shields.io/badge/-NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Markdown](https://img.shields.io/badge/-Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Git](https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)]()
-          
-<div style="background-color:#222222; padding: 20px;">
-    <h2 style="color:#FFFFFF;">👨‍🎓 I am currently learning :</h2> 
-
-<ul>
- <li style="list-style-type:none;">
-            <img src="https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        </li> 
-    <li style="list-style:none;">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-        </li>
-        
-</ul>
+[![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
+[![Qwik.js](https://img.shields.io/badge/-Qwik.js-%23FFD700?style=for-the-badge&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
 
 ###
@@ -66,4 +56,3 @@ Let's connect on social media:
 </ul>
 
 </div>
-
