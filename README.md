@@ -40,9 +40,8 @@ Let's connect on social media:
 [![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)]()
 [![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Vue.js](https://img.shields.io/badge/-Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](#)
-[![Qwik.js](https://img.shields.io/badge/-Qwik.js-%23FFD700?style=for-the-badge&logoColor=white)](#)
-[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
-
+[![Qwik.js](https://img.shields.io/badge/-Qwik.js-%23E0E0E0?style=for-the-badge&logoColor=black)](https://qwik.builder.io/)
+[![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ###
 
