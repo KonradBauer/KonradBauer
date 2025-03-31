@@ -19,7 +19,6 @@ Frontend developer with expertise in React ecosystem. Passionate about creating 
 
 - 📫 How to reach me: **konradbauer94@gmail.com**
 - 📱 Phone: **+48 781 573 274**
-- 🌱 Currently learning: **Node.js**
 
 <br>
 
@@ -47,12 +46,21 @@ Frontend developer with expertise in React ecosystem. Passionate about creating 
   ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
   ![Scrum](https://img.shields.io/badge/-Scrum-000000?style=flat-square&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-026AA7?style=flat-square&logo=trello&logoColor=white)
+  ![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+  ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+  ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+
+
+
   
 </div>
 
 ## Skills Highlights 💡
 
-- ✅ **Frontend Architecture**: Semantic HTML, Responsive Design, CSS Grid & Flexbox
+- ✅ **Frontend Architecture**: Semantic HTML, Responsive Design, CSS Grid & Flexbox, Tailwind
 - ✅ **JavaScript**: ES6+, Promises, Async/Await, Error Handling
 - ✅ **React**: Hooks, Component Patterns, Performance Optimization
 - ✅ **State Management**: Redux (Toolkit), Redux-Saga, Zustand, Context API
