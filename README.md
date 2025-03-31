@@ -30,6 +30,7 @@ Let's connect on social media:
 [![React Hooks](https://img.shields.io/badge/-React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/-Redux--(toolkit)-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
 [![Redux-Saga](https://img.shields.io/badge/-Redux--Saga-764ABC?style=for-the-badge&logo=redux-saga&logoColor=white)](#)
+[![Zustand](https://img.shields.io/badge/-Zustand-%23007ACC?style=for-the-badge&logo=zustand&logoColor=white)](#)
 [![React Router](https://img.shields.io/badge/-React%20Router-%23CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![GitHub Pull Requests & Review](https://img.shields.io/badge/-GitHub%20Pull%20Requests%20%26%20Review-%23181717?style=for-the-badge&logo=github&logoColor=white)]()
 [![Trello](https://img.shields.io/badge/-Trello-%23026AA7?style=for-the-badge&logo=trello&logoColor=white)]()
