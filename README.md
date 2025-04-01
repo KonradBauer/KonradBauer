@@ -44,6 +44,8 @@ Frontend developer with expertise in React ecosystem. Passionate about creating 
   ![Redux-Saga](https://img.shields.io/badge/-Redux_Saga-999999?style=flat-square&logo=redux-saga&logoColor=white)
   ![Zustand](https://img.shields.io/badge/-Zustand-007ACC?style=flat-square&logoColor=white)
   ![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+  ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+
   
   ### Styling
   
