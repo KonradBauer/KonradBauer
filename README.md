@@ -17,7 +17,7 @@ Frontend developer with expertise in React ecosystem. Passionate about creating 
 
 - 📫 Email: **konradbauer94@gmail.com**
 - 📱 Phone: **+48 781 573 274**
-- 🌐 Webpage: [**kbauer.pl**](https://kbauer.pl)
+- 🌐 Webpage: [**kbauer.pl**](http://kbauer.pl)
 
 <br clear="right">
 
