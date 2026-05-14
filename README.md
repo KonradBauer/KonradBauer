@@ -43,6 +43,7 @@ Frontend developer with expertise in the React ecosystem. Passionate about creat
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Qwik](https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 
 **🔄 State Management**
 
@@ -97,6 +98,10 @@ Frontend developer with expertise in the React ecosystem. Passionate about creat
   <tr>
     <td>✅ <strong>API Integration</strong></td>
     <td>Fetch, Axios, TanStack Query</td>
+  </tr>
+  <tr>
+    <td>✅ <strong>Headless CMS</strong></td>
+    <td>Payload CMS — collections, access control, custom fields, Next.js integration</td>
   </tr>
   <tr>
     <td>✅ <strong>Development Process</strong></td>
