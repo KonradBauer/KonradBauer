@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-bauer/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:konradbauer94@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://kbauer.pl)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:konradbauer94@gmail.com)
 
 </div>
 
